@@ -54,5 +54,5 @@ Authorization: Bearer {your_token}
 
 POST /api/v1/jwt/refresh/ - обновление JWT-токена
 
-Автор Дмитрий Прибавкин
+Автор [Дмитрий Прибавкин](https://github.com/code3452)
 
